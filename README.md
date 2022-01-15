@@ -4,7 +4,7 @@ This is the offical Onset C# Issue Tracker. Onset C# is in a really early state.
 If you want to help us to make C# as good as possible, you can do that by sending us every bug, optimization or feature request here. Please follow the following "guide" hwo to send us an issue the right way.
 
 ## General Rules
-Achte auf deine Ausdrucksweise. Wir legen wert darauf, im besten Fall jedes Issue schnellstmöglich zu bearbeiten. Doch das Team hinter Onset ist sehr klein und wir sind auch nur Menschen und keine Maschinen. Bitte versuche konstruktiv und freundlich zu bleiben, auch wenn dich etwas ziemlich nervt. 
+Pay attention to the way you express yourself. We make it a point to handle every issue as quickly as possible, at best. However, the team behind Onset is very small and we are only humans, not machines. Please try to stay constructive and friendly, even if something is annoying you. 
 
 ## Bug Report 🐛
 If you have found a bug, a function doesn't work, or doesn't work properly, please keep the following things in mind so that we can fix this bug as soon as possible:
