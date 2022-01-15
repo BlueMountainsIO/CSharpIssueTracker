@@ -13,5 +13,5 @@ If you have found a bug, a function doesn't work, or doesn't work properly, plea
 - Try to describe how to reproduce the bug. Pay attention to your environment (data like your operating system can help)
 
 ## Feature Request
-Ist eine Funktion am Fehlen, du hast einen Verbesserungsvorschlag oder möchtest ein Feature was es noch nicht gibt, dann beschreibe es so gut wie möglich aus und wir sehen was sich machen lässt 😃    
+Is a feature missing, you have a suggestion for improvement or want a feature that does not exist yet, then describe it as good as possible and we'll see what can be done 😃    
 Please note that it is only a suggestion, we may not accept your feature
